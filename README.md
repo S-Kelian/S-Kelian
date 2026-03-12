@@ -2,14 +2,14 @@
 
 I'm **Kelian Sebaici**, a software engineer based near **Toulouse, France**.
 
-I recently graduated from **INSA Toulouse** in Computer Science & Networks and I'm currently looking for my **first position as a backend/software engineer**.
+I recently graduated from **INSA Toulouse** in Computer Science & Networks and I'm currently looking for my **first position as a software engineer**.
 
 I enjoy building reliable systems, APIs and data-driven applications.  
 I'm especially interested in projects that have a **real-world impact**, particularly in **health, sports or environmental technologies**.
 
 If there's a problem to solve or a system to design, chances are I'll enjoy working on it.
 
-💼 Currently looking for a **Backend / Software Engineer position**
+💼 Currently looking for a **Software Engineer position**
 
 ---
 
@@ -23,33 +23,21 @@ If there's a problem to solve or a system to design, chances are I'll enjoy work
 
 ## 🛠 Tech I enjoy working with
 
-### Backend
-- Java / Spring Boot
-- Python
-- REST APIs
-- PostgreSQL / SQL
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td><b>Data & AI</b></td>
+<td><b>Frontend / Mobile</b></td>
+<td><b>DevOps</b></td>
+</tr>
 
-### Mobile
-- React Native
-
-### Frontend (basics)
-- Angular
-- HTML / CSS / JavaScript
-
-### Data & AI
-- Python
-- Pandas
-- R
-- Neural Networks / CNN
-
-### DevOps & Tools
-- Docker
-- GitHub Actions
-- Azure
-- Grafana
-
-### Methodology
-- Agile / Scrum
+<tr>
+<td>Java / Spring Boot<br>Python<br>REST APIs<br>PostgreSQL</td>
+<td>Pandas<br>R<br>Neural Networks</td>
+<td>React Native<br>Angular<br>HTML / CSS / JS</td>
+<td>Docker<br>GitHub Actions<br>Azure<br>Grafana</td>
+</tr>
+</table>
 
 ---
 
